@@ -1,5 +1,7 @@
 ### Hi there. I am Jonathan Santos 👋
 
+I define myself as a very curious person who enjoys looking for the meaning and functioning of things. The more I learn more I am fascinated by the immense amount of knowledge and ingenuity that can occur in programming. 
+
 # Core qualifications
 ## Programming languages
 <img src="https://img.shields.io/badge/-Golang-blueviolet"> | <img src="https://img.shields.io/badge/-C%2B%2B-blueviolet"> | <img src="https://img.shields.io/badge/-JavaScript-blueviolet">
