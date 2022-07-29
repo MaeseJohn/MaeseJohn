@@ -18,7 +18,7 @@ I define myself as a very curious person who enjoys looking for the meaning and 
 # Contact me  
 <ul>
   <li>
-    LinkedIn: <a href="https://www.linkedin.com/in/jonathan-santos-castro-a03a7b200/">https://www.linkedin.com/in/jonathan-santos-castro-a03a7b200/</a>
+    LinkedIn: <a href="https://www.linkedin.com/in/jonathan-santos24//">https://www.linkedin.com/in/jonathan-santos24//</a>
   </li> 
   <li>
     Email: <a href="mailto:jonathan.santoscastro24@gmail.com">jonathan.santoscastro24@gmail.com</a>
