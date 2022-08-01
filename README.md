@@ -1,6 +1,6 @@
 ### Hi there. I am Jonathan Santos 👋
 
-I define myself as a extremely curious person who enjoys looking for the meaning and functioning of things. The more I learn the more I am fascinated by the immense amount of knowledge and ingenuity that can appear in programming. 
+I define myself as an extremely curious person who enjoys looking for the meaning and functioning of things. The more I learn the more I am fascinated by the immense amount of knowledge and ingenuity that can appear in programming. 
 
 # Core qualifications
 ## Programming languages
