@@ -4,7 +4,7 @@ I define myself as an extremely curious person who enjoys looking for the meanin
 
 # Core qualifications
 ## Programming languages
-<img src="https://img.shields.io/badge/-Golang-blueviolet"> | <img src="https://img.shields.io/badge/-C%2B%2B-blueviolet"> | <img src="https://img.shields.io/badge/-JavaScript-blueviolet">
+<img src="https://img.shields.io/badge/-Golang-blueviolet"> | <img src="https://img.shields.io/badge/-JavaScript-blueviolet">
 
 ## Software Engineering techniques
 <img src="https://img.shields.io/badge/-SOLID%20Principles-blue"> | <img src="https://img.shields.io/badge/-Concurrent%20Programming-blue"> | <img src="https://img.shields.io/badge/-Design%20Patterns-blue"> | <img src="https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-blue">
